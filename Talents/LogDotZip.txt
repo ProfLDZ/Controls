@@ -36,6 +36,7 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:3
 renderClouds:true
+lastServer:
 lang:en_us
 soundDevice:
 chatVisibility:0
