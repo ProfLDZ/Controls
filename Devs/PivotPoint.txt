@@ -123,7 +123,7 @@ key_iris.keybind.reload:key.keyboard.keypad.8
 key_iris.keybind.toggleShaders:key.keyboard.keypad.8
 key_iris.keybind.shaderPackSelection:key.keyboard.keypad.8
 key_key.logical_zoom.zoom:key.keyboard.r
-key_key.profcmds.damage_toggle:key.keyboard.page.down
+key_key.profcmds.damage_toggle:key.keyboard.h
 key_key.replaymod.playeroverview:key.keyboard.keypad.7
 key_key.replaymod.lighting:key.keyboard.keypad.7
 key_key.replaymod.quickmode:key.keyboard.keypad.7
