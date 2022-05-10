@@ -150,7 +150,7 @@ soundCategory_block:0.47887325
 soundCategory_hostile:0.49295774
 soundCategory_neutral:1.0
 soundCategory_player:1.0
-soundCategory_ambient:0.0
+soundCategory_ambient:1.0
 soundCategory_voice:0.0
 modelPart_cape:true
 modelPart_jacket:true
