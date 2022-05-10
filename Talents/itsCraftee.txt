@@ -97,8 +97,8 @@ key_key.swapOffhand:key.keyboard.g
 key_key.saveToolbarActivator:key.keyboard.c
 key_key.loadToolbarActivator:key.keyboard.x
 key_key.advancements:key.keyboard.l
-key_key.logical_zoom.zoom:key.keyboard.keypad.add
-key_key.profcmds.damage_toggle:key.keyboard.space
+key_key.logical_zoom.zoom:key.keyboard.c
+key_key.profcmds.damage_toggle:key.keyboard.h
 key_key.hotbar.1:key.keyboard.1
 key_key.hotbar.2:key.keyboard.2
 key_key.hotbar.3:key.keyboard.3
